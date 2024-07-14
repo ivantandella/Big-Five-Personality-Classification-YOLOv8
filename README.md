@@ -5,7 +5,7 @@ This project was made to fulfill undergraduate thesis program with the title **P
 ## Background
 Graphology is the study of handwriting analysis to identify, evaluate and understand a person's personality well and is very useful for many organizational processes, for example in the recruitment selection process in companies. There is a well-known model and widely used in various fields including industry called Big Five Personality, which groups human personality into five characteristics, namely Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. The analysis process is generally carried out manually by experts and the results also depend on the experience of the expert. This will also take a relatively long time so it is considered less efficient as the number of samples that need to be examined increases. Therefore, to increase efficiency and avoid subjectivity in personality examination results, a system can be developed that is able to classify personality types quickly and accurately. This research implements the You Only Look Once version 8 to develop a personality classification system based on the big five personalities.
 
-## General Architecture
+## Methodology
 ![image](https://github.com/user-attachments/assets/ff6bd32d-721b-407a-9fa4-8a4aa8bef5c1)
 
 ## Training Result
